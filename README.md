@@ -13,12 +13,12 @@ This is a simple C# program that demonstrates symmetric encryption using the Adv
 This tool is intended for educational purposes to help users understand the basics of symmetric encryption.
 
 ## How to Run the Program
-Prerequisites
+### Prerequisites
 - .NET SDK: Ensure you have the .NET SDK installed on your machine. You can download it from here.
 
 - Code Editor: Use an IDE like Visual Studio, Visual Studio Code, or any text editor to view and run the code.
 
-# Steps to Run
+### Steps to Run
 1. Clone or Download the Code:
 
 - Clone this repository or download the .cs file to your local machine.
